@@ -1,3 +1,5 @@
+
+import LogingPage.*;
 import ParcAuto.Masina;
 
 import javax.swing.*;
@@ -20,6 +22,7 @@ public class InterfataParcAuto {
     private JLabel pretLabel;
     private JLabel valoareLabel;
     private JButton introducere;
+    private JButton logingbutton;
 
     private ArrayList<Masina> listaMasini = new ArrayList<Masina>();
 
@@ -75,11 +78,13 @@ public class InterfataParcAuto {
     }
 
     public static void main(String[] args) {
+        new LogingPage();
         JFrame frame = new JFrame("Parc Auto");
         InterfataParcAuto iParcAuto = new InterfataParcAuto();
         frame.setContentPane(iParcAuto.panel);
         frame.pack();
         frame.setVisible(true);
+
     }
 
     private void mesajDeEroare(){
