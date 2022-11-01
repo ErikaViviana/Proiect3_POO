@@ -13,10 +13,10 @@ PRIMUL MENIU EXPLICATII
 
 
 AL DOILEA MENIU EXPLICATII - MENIUL PARCULUI AUTO:
-  Se introduc datele masinii
-  Pretul se calculeaza in functie de putere la apasarea butonului "Determinare Pret"
-  Butonul "Adauga" va adauga obiectul in aplicatie
-  Butoanele "Scumpire" si "Ieftinire" pot modifica pretul masinii
+Se introduc datele masinii
+Pretul se calculeaza in functie de putere la apasarea butonului "Determinare Pret"
+Butonul "Adauga" va adauga obiectul in aplicatie
+Butoanele "Scumpire" si "Ieftinire" pot modifica pretul masinii
   
   
 ![InterfataParcAuto](https://user-images.githubusercontent.com/116886207/199354334-89790b85-88f6-4fa9-94b2-f81c90ab9a8d.png)
